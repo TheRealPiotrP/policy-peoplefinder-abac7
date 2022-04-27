@@ -1,3 +1,3 @@
-server: registry.beta.aserto.com
-username: piotr123
-repo: piotr123/asdf
+server: registry.prod.aserto.com
+username: puszkiewicz
+repo: puszkiewicz/mycoolpolicy
